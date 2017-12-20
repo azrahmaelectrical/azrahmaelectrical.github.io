@@ -4,7 +4,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 
 
@@ -618,7 +617,7 @@ h6,
 #menu-9 .link,
 #menu-9 .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-9 .link {
   font-size: 0.8rem;
@@ -662,7 +661,7 @@ h6,
 }
 #menu-9 .link[aria-expanded="true"],
 #menu-9 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #fac51c!important;
 }
 #menu-9.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -718,7 +717,7 @@ h6,
 #menu-1s .link,
 #menu-1s .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-1s .link {
   font-size: 0.8rem;
@@ -762,7 +761,7 @@ h6,
 }
 #menu-1s .link[aria-expanded="true"],
 #menu-1s .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #fac51c!important;
 }
 #menu-1s.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
